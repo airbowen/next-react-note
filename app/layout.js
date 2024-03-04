@@ -1,4 +1,4 @@
-import 'styled-jsx/css'
+import './style.css'
 import Sidebar from '@/components/Sidebar'
 
 export default async function RootLayout({
@@ -18,4 +18,3 @@ export default async function RootLayout({
     </html>
   )
 }
-
